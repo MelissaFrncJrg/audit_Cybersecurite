@@ -19,3 +19,5 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+# add comment to force trigger Dependabot
+# Force run
